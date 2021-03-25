@@ -1,0 +1,1 @@
+These are a bunch of codes I created for MATH 3107: Cryptology & Cryptanalysis
